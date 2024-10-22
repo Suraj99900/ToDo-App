@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Dependency management files
+.venv/
+.env/
+Pipfile.lock

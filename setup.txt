@@ -1,0 +1,7 @@
+pip install virtualenv
+if -- virtualenv env
+else -- python -m venv env
+
+
+Run the command to activate the virtual environment
+.\env\Scripts\activate   --For Windows
